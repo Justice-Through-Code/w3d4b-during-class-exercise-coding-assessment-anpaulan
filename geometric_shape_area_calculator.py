@@ -59,7 +59,7 @@ def main():
 
     else:
         # TODO: If the user enters anything other than 1, 2 or 3, print statement "Invalid choice ."
-        print('Invalid Choice')
+        print('Invalid Choice .')
     if choice in [1, 2, 3]: # DO NOT MODIFY
         print(f"The area is: {area:.2f} square units.") # DO NOT MODIFY
 
