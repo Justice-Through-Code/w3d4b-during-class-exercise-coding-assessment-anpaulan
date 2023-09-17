@@ -65,20 +65,11 @@ def main():
 
     # TODO: Print a statement explaining each step required to find and complete your technical assignments.  Be specific. 
     steps = '''
-    1. First I had to copy the repo from Github
-    2. Then clone it to my computer
-    3. Because there were no variables for the shapes, I had to enclose them in quotes
-    4. Used input function, then assigned variable to new data type
-    5. Used type() function to then use conditional to see if variable type was int
-    5a. When asking for user input for measurements, had to do this step as well
-    6. Rinse and repeat for all shapes
-    - I just needed to adjust the formula based on shape
-    7. Invalid choice only worked for ints, but not strings, but assignment did not ask for it so I left it
-    8. instead of using multiple print statements, I assigned this part to a variable
-    9. I ran the unittest, but it failed, so now I am in the process of trying to debug it,
-    but all the errors are coming from the test files and not my actual code file
-    10. Wish me luck on trying to debug it before I
-    10a, Git add (file name) git commmit -m 'My notes', then git push 
+    - First I go into courseworks, go to assignments, click the technical assignment
+    - Then click 'exercise,' find it in my Github
+    - Then copy and clone the repo from Github
+    - Complete the assignment, then Git add (file name) git commmit -m 'My notes', then git push 
+    - Once the green check appears, go into courseworks, add the link and screenshot before clicking submit
     '''
     print(steps)
 
